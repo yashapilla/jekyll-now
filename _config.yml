@@ -14,8 +14,22 @@ avatar: http://megaicons.net/static/img/icons_sizes/189/462/256/comics-mask-icon
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
 
+# Includes an icon in the footer for each username you enter
+-footer-links:
+ -  dribbble:
+ -  email:
+ -  facebook:
+ -  flickr:
+ -  github: 
+ -  instagram:
+ -  linkedin:
+ -  pinterest:
+ -  rss: 
+ -  twitter: 
+ -  stackoverflow: 
+ -  youtube: 
+ -  googleplus: 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
