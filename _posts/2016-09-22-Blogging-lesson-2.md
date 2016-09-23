@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Personalizing my blog</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>18/09/2016</td>
   </tr>
 </table>
@@ -18,12 +18,12 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>To change you profile image</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To change the colour nor my backround</td>
+    <th>To change the colour nor my backround</th>
   </tr>
   <tr>
     <td>Did I reach my target? 
