@@ -112,12 +112,13 @@ img {
 
 table {
 	border-collapse: collapse;
+	width: 100%;
 }
 table, th, td{
 	border: 1px solid black;
 }
 th{
-	
+	height: 50px;	
 }
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
