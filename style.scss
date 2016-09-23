@@ -120,6 +120,9 @@ table, th, td{
 th{
 	height: 50px;	
 }
+td{
+	vertical-align: bottom;
+}
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
